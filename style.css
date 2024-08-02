@@ -1,0 +1,82 @@
+body {
+  padding: 0;
+}
+
+div {
+  width: 450px;
+  margin: 2px auto;
+}
+
+.contact_form {
+  border: 1px solid #ddd;
+  width: 80%;
+  padding: 5%;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 0px 0px 04px 0px;
+}
+
+.contact_form form {
+  width: 94%;
+  padding: 3%;
+  text-align: center;
+}
+
+.child_form {
+  width: 94%;
+  padding: 3%;
+}
+
+.child_form input {
+  width: 93%;
+  padding: 3%;
+  border: 1px solid #ddd;
+  border-radius: 100px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.btn1 {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  width: 100%;
+}
+
+.btn1:hover {
+  background-color: rgba(0, 168, 255, 1.0);
+}
+
+.btn2:hover {
+  background-color:
+    black;
+  color: white;
+}
+
+input[type='button'] {
+  width: 100%;
+}
+
+.child_form p {
+  font-size: 20px;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+input[type='email'] {
+  border-radius: 5px;
+}
+
+.child_form a {
+  text-decoration: none;
+  color: rgba(0, 168, 255, 1.0);
+}
+
+.child_form h4 {
+  font-weight: 400;
+}
+
+.fa-twitter {
+  color: rgba(0, 168, 255, 1.0);
+  font-size: 50px;
+}
